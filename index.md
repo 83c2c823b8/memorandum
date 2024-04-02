@@ -28,6 +28,7 @@
 - 礼記
 - 春秋
 
+
 # 使えそうな副詞
 - 
 -
@@ -159,6 +160,7 @@ ln -s リンクする場所 呼び出す場所
 complete -G <pattern> <function>
 ```
 空文字に対する補完とかも設定できる．
+
 # abbreviation 
 | abbreviation | formal name |
 |------------- | ------------|
@@ -167,3 +169,4 @@ complete -G <pattern> <function>
 |ARP| address resolution protocol|  
 |IME| input method engine|
 |
+
