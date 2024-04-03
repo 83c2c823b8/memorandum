@@ -50,3 +50,5 @@ then you obtain what you want.
 ```vim
 :X
 ```
+and enter key twice.
+when you want to unlock the key, set key nothing.
