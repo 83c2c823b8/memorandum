@@ -120,112 +120,127 @@
 ## join
 
 # prosess management
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
-## 
+## pgrep/pkill
+## chkconfig
+## update-rc.d
+## time
+## pidof
+## lsof
+## fuser
+## kill
+## nice
+## renice
+## sleep
+## nohup
+## bg
+## fg
+## jobs
+## pwdx
+## pv
+## stdbf
+## exit/logout
+
+# system management
+## df
+## du
+## top
+## at
+## date
+## alias/unalias
+## history
+## fc
+## env 
+## printenv
+## export
+## chroot
+## arch
+## uname
+## runlevel
+## init
+## systemctl
+## initctl
+## crontab
+## script
+## finger
+## last
+## lastlog
+## w
+## who
+## test
+## su
+## sudo
+## sg
+## sysctl
+## hostname
+## ldd
+## ldconfig
+## loadkeys
+## newaliases
+## mailq
+## logger
+## journalctl
+## free
+## vmstat
+## hwclock
+## clockdiff
+## halt
+## shutdown
+## tmpwatch
+## setterm
+## update-altenatives
+## busybox
+
+# utility
+## echo
+## write/wall
+## tee
+## screen
+## tmux
+## rdesktop
+## vnserver/vncviewer
+## make
+## expect
+## let
+## factor
+## od
+## watch
+## chvt
+## cal
+## yes
+## git
+## cvs
+## svn
+## svnadmin
+## trac-admin
+
+# device
+## lspci
+## luslspcib
+## lsscsi
+## mknod
+## mount
+## umnount
+## shownmount
+## fdisk
+## parted
+## fsck
+## mkfs
+## mkswap
+## swapon/swapoff
+## wodim
+## growisofs
+## edquiota
+## hdparm
+## sdparm
+## dmidecode
+## lscpu
+## lsblk
+## partx
+
+# network
+## ip
+## ifconfig
+## iwconfig
 ## 
 ## 
 ## 
