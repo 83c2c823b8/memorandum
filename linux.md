@@ -241,6 +241,97 @@
 ## ip
 ## ifconfig
 ## iwconfig
+## wpa_supplicant
+## nmcli
+## ping
+## ss
+## netstat
+## route
+## ipcalc
+## iptables
+## ip6tables
+## iptable-save/ip6table
+## iptables-restore/ip6tables-restore
+## firewall-cmd
+## host
+## nslookup
+## dig
+## whois
+## tracepath/tracepath6
+## tcpdump
+## tshark
+## telnet
+## wget
+## curl
+## arp
+## arping
+## ssh
+## scp
+## sftp
+## ssh-keygen
+## ssh-copy-id
+## rsync
+## ftp
+## mail
+## w3m
+## ntpdate
+## brctl 
+## nc
+
+# security
+## gpg/gpg2
+## openssl
+## pwgen
+
+# database
+## psql
+## mysqldump
+## sqlite3
+
+# vitualization
+## xl
+## virt-install
+## virsh
+## VBoxManage
+## qemu-img
+
+# kernel
+## lsmod
+## insmod
+## rmmod
+## modrpobe
+## depmod
+## modinfo
+## mkinitrmfs
+## dracut
+## grub/grub-install
+## dmseg
+
+# print
+## lpr
+## lp
+## cancel
+## lpadmin
+## lpstat
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
+## 
 ## 
 ## 
 ## 
